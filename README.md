@@ -1,9 +1,9 @@
-📘 README – Sets and Dictionaries in Python
-🧠 Aim
+# 📘 README – Sets and Dictionaries in Python
+🧠 ## Aim
 
 To study and implement Sets and Dictionaries in Python and understand their operations, properties, and real-world applications.
 
-🎯 Objectives
+# 🎯 Objectives
 
 To understand the concept of Sets in Python.
 
@@ -15,7 +15,7 @@ To perform dictionary operations like adding, updating, deleting, and looping.
 
 To compare sets and dictionaries with other data structures like lists.
 
-📖 Theory
+# 📖 Theory
 🔹 Sets in Python
 
 A Set is an unordered collection of unique elements. Sets are useful when you want to store non-duplicate values and perform mathematical operations like union and intersection.
@@ -44,7 +44,7 @@ Fast lookup using keys
 
 Defined using {key: value}
 
-🛠 Implementation
+# 🛠 Implementation
 ✅ Set Example
 # Creating sets
 A = {1, 2, 3}
@@ -106,6 +106,6 @@ Database-like key-value storage
 
 Counting word frequency
 
-🏁 Conclusion
+# 🏁 Conclusion
 
 This project helped in understanding the implementation and practical use of Sets and Dictionaries in Python. Sets are useful for handling unique elements and mathematical operations, while dictionaries are powerful for storing structured data using key-value pairs.
